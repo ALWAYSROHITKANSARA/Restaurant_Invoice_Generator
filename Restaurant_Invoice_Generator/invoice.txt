@@ -1,0 +1,27 @@
+LACKYARD RESTURANT
+JODHPUR.
+CONTACT : 0291-123456
+
+Bill No.496267
+Customer Name  : rohit kansara
+Contact Number : 1234567890
+
+
+S.No.	 Food Name	Qty	Price	Amount
+1.	  Fries   	 1	 140	 100
+2.	  Noodles 	 0	 120	 0
+3.	  Soup     	 0	 140	 0
+4.	  Burger   	 0	 260	 0
+5.	  Sandwich	 0	 300	 0
+6.	  Drinks  	 1	 65	 65
+
+
+Cost of Meal-------: ('Rs', '165.00')
+Paid Tax 20%-------: ('Rs', '33.00')
+Service Charge 1%--: ('Rs', '1.00')
+Total--------------: ('Rs', '199.00')
+
+
+PROJECT SUBMITTED BY - ROHIT_KANSARA
+        SUBBMITTED TO - MR. BHARAT_SINGH
+ CASE LAB_IV SEM_II YEAR_2017-18.

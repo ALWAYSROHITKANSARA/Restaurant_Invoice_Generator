@@ -1,0 +1,9 @@
+LACKYARD RESTURANT
+JODHPUR.
+CONTACT : 0291-123456
+
+Billing Time-----:Mon Apr 23 12:14:24 2018
+Bill No.496267
+Customer Name---: rohit kansara
+Contact Number--: 1234567890
+Bill Amount-----: ('Rs', '199.00')
